@@ -19,3 +19,7 @@
 6. Pour the batter into a greased and floured 9x13-inch baking pan.
 cinnamon
 
+## Additional instructions by Aryaman for task_3
+
+- Now, learn git after making the cake.
+
