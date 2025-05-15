@@ -69,6 +69,8 @@ is performing when you ask IntelliJ to perform various git operations for you.
 
 # TASK 2: Let's bake a cake!
 
+Very good resource to solve merge conflict = https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line
+
 Alice and Bob are planning to bake a cake, but can't agree on which recipe to use. They had
 started working on the recipe in `recipe.md` together, and then each filled in the details of
 what they felt would make the most delicious cake!
